@@ -56,6 +56,10 @@ https://user-images.githubusercontent.com/66519611/123220562-c0f05d80-d4d6-11eb-
 
 *************************************************************************************
 
+### i will be adding more information about how does it work
+
+*************************************************************************************
+
 # My Empty Ethereum Wallet : 0x1B4944030818392D76672f583884F4A125A4415e
 ![120064592-a5c83480-c075-11eb-89c1-78732ecaf8d3](https://user-images.githubusercontent.com/66519611/123219351-791d0680-d4d5-11eb-8248-e34069d0ad6d.png)
 
