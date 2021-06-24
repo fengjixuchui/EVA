@@ -8,14 +8,14 @@
 
 *************************************************************************************
 
-# YOUR MOM IS A BITCH IF YOU UPLOADED THIS TO ANY WEBSITE OTHER THAN  `antiscan.me`
+# YOUR MOM IS A -BITCH- IF YOU UPLOADED THIS TO ANY WEBSITE OTHER THAN  `antiscan.me`
 
 *************************************************************************************
 
 
 # REQUIREMENTS:
-* visual studio 2019
-* cobalt strike
+* visual studio 2019 [ it may work with visual studio 2017 ]
+* cobalt strike [ take a look at my repo `cobalt-wipe` ]
 * python2 for the encoder
 
 *************************************************************************************
