@@ -1,5 +1,7 @@
 # EVA
+# fully undetectable injector
 
+*************************************************************************************
 
 # [[+] antiscan.me](https://antiscan.me/scan/new/result?id=2COeiu0BcRmz)
 ![antiscanme](https://user-images.githubusercontent.com/66519611/123218820-d9f80f00-d4d4-11eb-9135-c2bfe861162e.png)
@@ -7,6 +9,14 @@
 *************************************************************************************
 
 # YOUR MOM IS A BITCH IF YOU UPLOADED THIS TO ANY WEBSITE OTHER THAN  `antiscan.me`
+
+*************************************************************************************
+
+
+# REQUIREMENTS:
+* visual studio 2019
+* cobalt strike
+* python2 for the encoder
 
 *************************************************************************************
 
