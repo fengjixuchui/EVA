@@ -1,4 +1,4 @@
-//http://www.cplusplus.com/forum/windows/12137/
+// coded by orca666
 
 #include <windows.h>
 #include <iostream>
