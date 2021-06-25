@@ -9,7 +9,7 @@
 *************************************************************************************
 
 # YOUR MOM IS A -BITCH- IF YOU UPLOADED THIS TO ANY WEBSITE OTHER THAN  `antiscan.me`
-
+# READ THE [UPDATE](https://github.com/ORCA666/EVA/blob/main/UPDATE.md)
 *************************************************************************************
 
 
@@ -37,6 +37,14 @@
 *************************************************************************************
 
 # DEMO: 
+
+### [+] You can do me a favour and disable *Automatic Sample Submission* in windows defender :
+
+![Screenshot 2021-06-25 123639](https://user-images.githubusercontent.com/66519611/123405199-4137c100-d5b2-11eb-9d34-a2ae0ca65045.png)
+
+*************************************************************************************
+
+
 ## 1- explorer - injection:
 
 https://user-images.githubusercontent.com/66519611/123220470-ac13ca00-d4d6-11eb-8a88-fdab5306d5d7.mp4
