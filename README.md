@@ -38,7 +38,7 @@
 
 # DEMO: 
 
-### [+] You can do me a favour and disable *Automatic Sample Submission* in windows defender :
+### [+] You can do me a favour and disable *Automatic Sample Submission* in windows defender:
 
 ![Screenshot 2021-06-25 123639](https://user-images.githubusercontent.com/66519611/123405199-4137c100-d5b2-11eb-9d34-a2ae0ca65045.png)
 
