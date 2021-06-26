@@ -58,7 +58,7 @@ https://user-images.githubusercontent.com/66519611/123220562-c0f05d80-d4d6-11eb-
 *************************************************************************************
 
 # special thanks for:
-* [hasherezade](https://github.com/hasherezade) - for helping me to in building EVA inside visual studio
+* [hasherezade](https://github.com/hasherezade) - for helping me in building EVA inside visual studio
 * and for the person who posted the decoding way in memory, i forgot where i got it from : | if you are seeing this please reply !
 
 
