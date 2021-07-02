@@ -20,7 +20,7 @@
 
 
 
-# UPDATE: IM BACK, WORKING ON NEW VERSION THAT WONT EVEN CONTAIN THE SHELLCODE :) SO FUCK VIRUSTOTAL
+# UPDATE [FRIDAY JULY 2]: IM BACK, WORKING ON NEW VERSION THAT WONT EVEN CONTAIN THE SHELLCODE :) SO FUCK VIRUSTOTAL
 
 *************************************************************************************************************************
 
