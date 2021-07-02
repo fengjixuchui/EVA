@@ -20,7 +20,7 @@
 
 
 
-# ill release a second version that will use api hashing, hopefully it will be undetected again .
+# UPDATE: IM BACK, WORKING ON NEW VERSION THAT WONT EVEN CONTAIN THE SHELLCODE :) SO FUCK VIRUSTOTAL
 
 *************************************************************************************************************************
 
