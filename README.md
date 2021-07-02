@@ -66,7 +66,7 @@ https://user-images.githubusercontent.com/66519611/123220562-c0f05d80-d4d6-11eb-
 
 ### please feel free to post any issue or any suggestions
 
-### i will be adding more information about how does it work
+### i will be adding more information about how does it work `nah i wont, however if you want to know more about the code email me :>`
 
 *************************************************************************************
 
